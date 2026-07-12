@@ -18,6 +18,8 @@ tags:
   - Research
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/national-institute-of-mental-health-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/nimh-dsst
   - type: LinkedIn
